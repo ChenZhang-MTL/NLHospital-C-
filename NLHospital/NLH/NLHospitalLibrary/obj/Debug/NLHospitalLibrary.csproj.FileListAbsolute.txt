@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.AssemblyReference.cache
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+F:\BaiduSyncdisk\LaSalleCollege\S3\02. Multi-Tier\Project\Final_Project_Multi_tier\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb

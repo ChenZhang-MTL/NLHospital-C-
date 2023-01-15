@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\Lenovo\Desktop\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
